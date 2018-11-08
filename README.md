@@ -1,4 +1,4 @@
-# describe
+## describe
 A webpack-plugin to generate a json file contain  compiled files's name,distinguished different types of file
 
 
