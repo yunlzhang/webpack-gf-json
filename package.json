@@ -12,5 +12,13 @@
     "json"
   ],
   "author": "zyl",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunlzhang/webpack-gf-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yunlzhang/webpack-gf-json/issues"
+  },
+  "homepage": "https://github.com/yunlzhang/webpack-gf-json#readme"
 }
