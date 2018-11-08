@@ -1,0 +1,16 @@
+{
+  "name": "webpack-gf-json",
+  "version": "1.0.0",
+  "description": "A webpack-plugin to generate a json file contain  compiled files's name,distinguished different types of file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpackplugin",
+    "file",
+    "json"
+  ],
+  "author": "zyl",
+  "license": "ISC"
+}
